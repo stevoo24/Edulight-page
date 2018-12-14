@@ -72,6 +72,7 @@ sub {
 }
 h3[class="ict-training"] {
     color: rgb(57, 57, 77);
+
     font-size: 30px;
 }
 
@@ -94,6 +95,10 @@ h3[class="ict-training"] {
         left: 40px;
         border: 5px solid green;
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90120ab20b2ea9267219efaf57b7642752d65fa3
 }
 
 h3[class="it-solutions"] {
@@ -107,3 +112,7 @@ h3[class="business-solutions"] {
 p {
     width: 750px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 90120ab20b2ea9267219efaf57b7642752d65fa3
