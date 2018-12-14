@@ -56,7 +56,8 @@ h1 {
     font-size: 60px;
     background-image: url("../images/tech\ future.jpg");
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-
+    repeat;
     background-size: cover;
     
 }
@@ -69,7 +70,7 @@ sub {
     font-style: italic;
     color: purple;
 }
-h3 {
+h3[class="ict-training"] {
     color: rgb(57, 57, 77);
     font-size: 30px;
 }
@@ -82,6 +83,7 @@ h3 {
     background-color: purple;
     color: white;
     padding: 0 30px;
+    position: none;
     }
 
     .phone>img {
@@ -92,3 +94,16 @@ h3 {
         left: 40px;
         border: 5px solid green;
     }
+}
+
+h3[class="it-solutions"] {
+    color: rgb(88, 88, 175);
+}
+
+h3[class="business-solutions"] {
+    color: rgb(22, 80, 22);
+}
+
+p {
+    width: 750px;
+}
